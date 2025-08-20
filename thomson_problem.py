@@ -18,7 +18,7 @@ scene.height = SCREEN_SCALE * (ASPECT_RATIO ** -1)
 scene.background = color.white
 # screen setup
 
-PI = 3.1415926
+PI = 3.14159265
 GOLDEN_RATIO = (1 + (5**.5))/2
 
 def get_random_point_on_sphere():
