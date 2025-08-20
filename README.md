@@ -1,2 +1,6 @@
-# thomson-problem-simulation
-A simple 3D simulation of the Thomson model of the atom with the goal of exploring solutions to the Thomson problem. For more information see the Wikipedia article: https://en.wikipedia.org/wiki/Thomson_problem
+## thomson-problem-simulation
+A simple 3D simulation of the Thomson model of the atom with the goal of exploring solutions to the Thomson problem. For information about the Thomson problem see the Wikipedia article: https://en.wikipedia.org/wiki/Thomson_problem
+
+# FOR BEST RESULTS
+Do not run thomson_problem.py directly. Instead, go to glowscript.org then click "sign in" in the top right, sign in with your Google account, then click the "here" link in the left textbox, click "Create new program", name the program, then paste the entire contents of thomson_problem.py except for the 4 import lines into the program, ensuring to leave the header "Web VPython X.X" line in the program. Then simply click "Run this program" to run it from there, and the controls of the program itself are intuitive.
+This copying process is necesary because the downloaded Python version of VPython unfortunately does not support as many features as the web-based "Glowscript" version, and this program uses some of those unsupported features.
